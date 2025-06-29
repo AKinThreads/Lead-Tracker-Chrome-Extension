@@ -53,6 +53,3 @@ Contains all the core JavaScript logic:
 - To enable the `chrome.tabs` API, this project is meant to be used as a Chrome Extension.
 - If running as a regular webpage, the "SAVE TAB" button will not function unless loaded as an extension with appropriate permissions.
 
-## License
-
-MIT License – free to use and modify.
